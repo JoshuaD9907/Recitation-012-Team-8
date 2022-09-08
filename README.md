@@ -1,4 +1,4 @@
-Project Team Members:
+Project Team Members: Emma Lowery
 
 # Recitation-012-Team-8
 
