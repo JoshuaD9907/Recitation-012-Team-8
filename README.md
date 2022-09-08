@@ -1,6 +1,8 @@
 # Recitation-012-Team-8
 
 Team #8
+Project Team Members:
+Emma Lowery
 
 Name - github username
 
