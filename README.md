@@ -1,4 +1,5 @@
 Project Team Members:
+Joshua Dinerman
 
 # Recitation-012-Team-8
 
