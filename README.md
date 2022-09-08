@@ -7,7 +7,7 @@ Name - github username
 
 Emma Lowery - emlo9129
 
-Joshua Dinerman - JoshuaD9907\
+Joshua Dinerman - JoshuaD9907
 
 Beau Cave - beaucave
 
