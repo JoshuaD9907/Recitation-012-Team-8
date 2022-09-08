@@ -1,4 +1,5 @@
-Project Team Members: Does this work Beauregard1
+Project Team Members: Does this work Emma Lowery
+
 # Recitation-012-Team-8
 
 Team #8
@@ -12,3 +13,5 @@ Joshua Dinerman - JoshuaD9907
 Beau Cave - beaucave
 
 Kimberly Marthias - kima3129
+
+Edited for pull request review step of Part A, Lab 3. -B.
