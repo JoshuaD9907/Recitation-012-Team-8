@@ -1,4 +1,4 @@
-Project Team Members: Beauregard1
+Project Team Members: Beauregard
 # Recitation-012-Team-8
 
 Team #8
