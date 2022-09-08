@@ -1,6 +1,4 @@
-Project Team Members:
-
-Kimberly Marthias
+Project Team Members: Kimberly Marthias
 
 # Recitation-012-Team-8
 
@@ -15,3 +13,6 @@ Joshua Dinerman - JoshuaD9907\
 Beau Cave - beaucave
 
 Kimberly Marthias - kima3129
+
+
+Practicing editing a merge request
