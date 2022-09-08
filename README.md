@@ -17,3 +17,5 @@ Joshua Dinerman - JoshuaD9907
 Beau Cave - beaucave
 
 Kimberly Marthias - kima3129
+
+Edited for pull request review step of Part A, Lab 3. -B.
