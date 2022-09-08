@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Project Team Members: Emma Lowery
+=======
+Project Team Members: Does this work
+>>>>>>> main
 
 # Recitation-012-Team-8
 
