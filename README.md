@@ -1,5 +1,5 @@
-Project Team Members: Does this work Emma Lowery
 
+Project Team Members: Does this work Beauregard Emma Lowery
 # Recitation-012-Team-8
 
 Team #8
@@ -14,4 +14,5 @@ Beau Cave - beaucave
 
 Kimberly Marthias - kima3129
 
+The project is a cooking website that allows users to search for and upload recipes.
 Edited for pull request review step of Part A, Lab 3. -B.
