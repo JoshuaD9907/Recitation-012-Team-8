@@ -12,3 +12,5 @@ Joshua Dinerman - JoshuaD9907
 Beau Cave - beaucave
 
 Kimberly Marthias - kima3129
+
+The project is a cooking website that allows users to search for and upload recipes.
